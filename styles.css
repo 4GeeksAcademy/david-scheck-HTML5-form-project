@@ -1,0 +1,22 @@
+flex {
+    display: flex;
+    
+}
+
+.radioflex {
+    display: flex;
+    height: 40px;
+    padding: 7px;
+}
+
+.ccpad {
+    padding-right: 17px;
+}
+
+.subtext {
+    font-size: 12px;
+    margin: 0px;
+}
+.bg-secondary-subtle-c {
+    background-color: rgb(247, 247, 247);
+}
